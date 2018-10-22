@@ -1,0 +1,44 @@
+#main {
+	text-align: center;
+	border-bottom: 2px solid black;
+	padding: 20px;
+	font-weight: 600;
+	font-family: 'Fascinate Inline', cursive;
+}
+
+
+
+#secondary {
+	text-align: center;
+}
+
+
+img {
+	position: relative;
+	left: 37%;
+}
+
+.countries {
+	float: left;
+	/*display: flex;*/
+}
+
+.picture {
+	width: 150px;
+	border-radius: 50%;
+	border: 3px solid green;
+}
+
+.region {
+	font-weight: 600;
+}
+
+.docs {
+	border: 3px dotted black;
+	padding:10px 25px;
+	display: inline;
+}
+
+.docs:hover {
+	background-color: #69EA13;
+}
